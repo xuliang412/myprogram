@@ -1,0 +1,6 @@
+C:\Users\xuliang\source\repos\Charpter7\TypeView\bin\Debug\TypeView.exe.config
+C:\Users\xuliang\source\repos\Charpter7\TypeView\bin\Debug\TypeView.exe
+C:\Users\xuliang\source\repos\Charpter7\TypeView\bin\Debug\TypeView.pdb
+C:\Users\xuliang\source\repos\Charpter7\TypeView\obj\Debug\TypeView.csproj.CoreCompileInputs.cache
+C:\Users\xuliang\source\repos\Charpter7\TypeView\obj\Debug\TypeView.exe
+C:\Users\xuliang\source\repos\Charpter7\TypeView\obj\Debug\TypeView.pdb
