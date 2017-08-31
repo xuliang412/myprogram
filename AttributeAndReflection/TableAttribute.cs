@@ -10,6 +10,7 @@ namespace AttributeAndReflection
     /// <summary>
     /// 定义一个特性
     /// </summary>
+#region 
     [AttributeUsage(AttributeTargets.Class,Inherited =false,AllowMultiple =false)]
     class TableAttribute:Attribute
     {
@@ -23,6 +24,7 @@ namespace AttributeAndReflection
         }
         public string TableName { get;set; }
     }
+#endregion
 
     [AttributeUsage(AttributeTargets.Property,Inherited =false,AllowMultiple =true)]
     public class ColumnAttribute:Attribute
