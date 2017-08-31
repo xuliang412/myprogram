@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace AttributeAndReflection
 {
+    /// <summary>
+    /// 定义一个特性
+    /// </summary>
     [AttributeUsage(AttributeTargets.Class,Inherited =false,AllowMultiple =false)]
     class TableAttribute:Attribute
     {
